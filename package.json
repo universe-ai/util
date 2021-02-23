@@ -1,0 +1,25 @@
+{
+  "name": "@universe-ai/util",
+  "version": "1.0.0",
+  "description": "Commonly used utility and helper code",
+  "keywords": [],
+  "homepage": "https://github.com/universe-ai/util#readme",
+  "author": "Universe.ai <devnull@universe.ai>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/universe-ai/util.git"
+  },
+  "bugs": {
+    "url": "https://github.com/universe-ai/util/issues"
+  },
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  },
+  "devDependencies": {}
+}
